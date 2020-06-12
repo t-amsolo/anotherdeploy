@@ -31,7 +31,7 @@ inputs:
   routes_location:
     description: 'Directory location where the routes.json file can be found in the source code'
     required: false
-  function_language:
+  FUNCTION_LANGUAGE:
     description: 'Language for Azure functions'
     required: false
 outputs:
